@@ -1,0 +1,40 @@
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
+Kernal Version: 
+6.18.33.2-microsoft-standard-WSL2
+Disk Usage: 
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.18.33.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         367G  302G   65G  83% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.6G  955G   1% /
+none            3.8G   32K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.8M  3.8G   1% /init
+none            3.8G  520K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   80K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   80K  3.8G   1% /mnt/wslg/doc
+C:\             367G  302G   65G  83% /mnt/c
+D:\             293G   22G  272G   8% /mnt/d
+E:\             293G   29G  265G  10% /mnt/e
+tmpfs           3.8G     0  3.8G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           776M   12K  776M   1% /run/user/1000
+Memory Usage: 
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       520Mi       7.0Gi       3.5Mi       173Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+Current Running process : 
+    PID USER     %CPU
+      1 root      0.1
+     96 root      0.0
+    946 plufle    0.0
+    161 root      0.0
+     48 root      0.0
+    945 root      0.0
+    317 root      0.0
+    176 root      0.0
+    420 plufle    0.0
